@@ -1,0 +1,66 @@
+
+*{
+    margin: 0px;
+}
+body{
+    background-image:url("vape.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+h1{
+    text-align: center;
+    padding-top: 67px;
+}
+hr{
+    background-color: orange;
+    height: 6px;
+    border-color: black;
+} 
+p{
+    padding-top: 30px;
+    padding-left: 80px;
+    font-size: large;
+    color: #71716e;
+}
+marquee{
+    
+    color: orangered;
+
+}
+button{
+   margin-left: 50%;
+   border-radius: 6px;
+   border-color: orangered;
+   padding-top: 3px;
+   padding-bottom: 3px;
+   padding-left: 3px;
+   padding-right: 3px;
+}
+.nani{
+    background-color: rgb(135, 228, 228);
+     padding-left: 55px; 
+     padding-top: 20px; 
+     padding-bottom: 20px; 
+     
+    
+
+    
+    
+    
+}
+
+.nani a{
+    text-decoration: none;
+    padding-right: 20px;
+    
+    color: black;
+    
+}
+  a:hover{
+    
+    color: rgb(251, 64, 7);
+    
+}
+
+
